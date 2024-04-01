@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Thành
+- 👋 Hi, I’m Qui
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently NodeJS
+- 
 
 
